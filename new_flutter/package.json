@@ -1,0 +1,14 @@
+{
+  "name": "model-day-flutter",
+  "version": "1.0.0",
+  "description": "Model Day - Professional Modeling Career Manager (Pre-built Flutter Web App)",
+  "scripts": {
+    "start": "echo 'This is a pre-built Flutter web app. No build process needed.'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shujah-Abdur-Rafay/MODEL-DAY.git"
+  },
+  "author": "Shujah Abdur Rafay",
+  "license": "MIT"
+}

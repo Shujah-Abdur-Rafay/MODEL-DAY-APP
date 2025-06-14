@@ -1,0 +1,2 @@
+C:/Users/Dell/Desktop/new_flutter/android/app/.cxx/RelWithDebInfo/554b3u4p/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Desktop/new_flutter/android/app/.cxx/RelWithDebInfo/554b3u4p/arm64-v8a/CMakeFiles/rebuild_cache.dir

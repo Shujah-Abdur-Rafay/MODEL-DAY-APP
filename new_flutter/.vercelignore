@@ -1,0 +1,60 @@
+# Only exclude development files - keep all built web assets
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Source code (not needed for static deployment)
+lib/
+test/
+web/
+
+# Flutter config files (not needed for static deployment)
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+
+# Documentation
+README.md
+*.md
+!README.md
+
+# Platform-specific folders
+android/
+ios/
+linux/
+macos/
+windows/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Documentation
+*.md
+!README.md
+
+# Database files
+*.sql
+
+# Metadata and IDE files
+.metadata
+*.iml
+
+# Backup files
+*.bak
+
+# Build scripts (not needed for static deployment)
+build.sh
+deploy.sh
+deploy.bat

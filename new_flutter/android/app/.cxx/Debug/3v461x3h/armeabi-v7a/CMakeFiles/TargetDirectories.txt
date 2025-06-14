@@ -1,0 +1,2 @@
+C:/Users/Dell/Desktop/MODEL-DAY/new_flutter/android/app/.cxx/Debug/3v461x3h/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Desktop/MODEL-DAY/new_flutter/android/app/.cxx/Debug/3v461x3h/armeabi-v7a/CMakeFiles/rebuild_cache.dir
