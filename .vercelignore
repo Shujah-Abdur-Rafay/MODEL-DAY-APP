@@ -1,0 +1,22 @@
+# Ignore Flutter source files and build artifacts
+new_flutter/lib/
+new_flutter/test/
+new_flutter/android/
+new_flutter/ios/
+new_flutter/linux/
+new_flutter/macos/
+new_flutter/windows/
+new_flutter/web/
+new_flutter/pubspec.yaml
+new_flutter/pubspec.lock
+new_flutter/analysis_options.yaml
+new_flutter/devtools_options.yaml
+new_flutter/*.md
+new_flutter/*.sql
+new_flutter/*.sh
+new_flutter/*.bat
+new_flutter/*.py
+new_flutter/*.iml
+
+# Only serve the built web files
+!new_flutter/build/web/
