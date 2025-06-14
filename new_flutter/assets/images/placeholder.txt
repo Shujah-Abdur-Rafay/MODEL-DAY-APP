@@ -1,7 +1,0 @@
-# Placeholder Images Directory
-
-This directory should contain:
-- model_day_logo.png (40x40, 60x60, 32x32 versions)
-- google_logo.png (20x20)
-
-The app has proper error handling for missing images and will show fallback UI elements.
