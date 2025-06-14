@@ -1,14 +1,1 @@
-# Ignore Flutter source files completely
-new_flutter/
-*.dart
-*.yaml
-*.lock
-android/
-ios/
-linux/
-macos/
-windows/
-test/
-lib/
-
-# Only serve the public directory with built files
+# Static deployment - only serve public directory
