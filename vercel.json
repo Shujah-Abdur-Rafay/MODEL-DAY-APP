@@ -11,6 +11,29 @@
   ],
   "routes": [
     {
+      "src": "/flutter_service_worker.js",
+      "dest": "/flutter_service_worker.js",
+      "headers": {
+        "cache-control": "max-age=0"
+      }
+    },
+    {
+      "src": "/(.*\\.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot|json|wasm|map))$",
+      "dest": "/$1"
+    },
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/canvaskit/(.*)",
+      "dest": "/canvaskit/$1"
+    },
+    {
+      "src": "/icons/(.*)",
+      "dest": "/icons/$1"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
