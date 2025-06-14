@@ -1,0 +1,10 @@
+{
+  "name": "model-day-static",
+  "version": "1.0.0",
+  "description": "Static Flutter web app deployment",
+  "scripts": {
+    "build": "echo 'No build needed - static files ready'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
